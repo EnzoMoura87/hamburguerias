@@ -123,4 +123,35 @@ textarea {
     padding: 5px;
 }
 
+.page {
+    width: 90%;
+    margin: auto;
+    padding: 20px;
+    text-align: center;
+    font-size: 20px;
+}
+
+.page a {
+    color: #BF0404;
+    transition: 0.8s;
+}
+
+.page a:hover {
+    text-decoration: underline;
+    color: #F29F05;
+}
+
+.footer {
+    background-color: black;
+}
+
+.footer p {
+    color: #F29F05;
+    font-size: 18px;
+    padding: 50px;
+    text-align: center;
+}
+
+
+
 
