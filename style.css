@@ -49,6 +49,13 @@ span {
     background-attachment: fixed;
 }
 
+.title h2 {
+    color: white;
+    text-align: center;
+    font-size: 40px;
+    padding-top: 100px;
+}
+
 .main {
     display: flex;
     flex-wrap: wrap;
